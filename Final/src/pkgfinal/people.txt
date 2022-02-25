@@ -1,0 +1,12 @@
+Student, John Adams, 23, 3.67, AG6731H
+Teacher, Eugenia Rho, 30, 43900
+Teacher, Elsie Caldwell, 43, 2.65, A472398FAD
+Student, Johnnie Watts, 64, 3.62, AS796823
+Student, Myra Stanley, 78, 74982
+Teacher, Janice Bailey, 73, 28974
+Teacher, Andy Nash, 27, 74893
+Teacher, Dominic Nunez, 21, 2.46, 312HQKJG
+Student, Freddie Drake, 21, 3.62, JKLA64783
+Student, Willis Bass, 39,89214
+Student, Mable Waters, 36, 3.87, HJFASOIY32
+Student, Alberta Morton, 25, 3.91, HJAKS79382

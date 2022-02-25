@@ -60,6 +60,7 @@ public class BookStore {
               Scanner sc = new Scanner(System.in);
               System.out.println("Enter Book Name: ");
               String bookName = sc.nextLine();
+              //char c = sc.next().charAt(0)
               //String bookName="";
               //bookName+= sc.nextLine();
               //String bookName = name;
