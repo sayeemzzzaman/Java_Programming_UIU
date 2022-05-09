@@ -120,3 +120,16 @@
 /mavenproject1/target/
 /jdbcPractice/nbproject/private/
 /jdbcPractice/build/
+/Demo/dist/
+/SynchronizationLecture/nbproject/private/
+/SynchronizationLecture/build/
+/JoinLecture/nbproject/private/
+/JoinLecture/build/
+/DivideConquerSorting/nbproject/private/
+/DivideConquerSorting/build/
+/ProducerConsumerLecture/nbproject/private/
+/ProducerConsumerLecture/build/
+/ProducerConsumerProblem/nbproject/private/
+/ProducerConsumerLecture/dist/
+/ProducerConsumerProblem/build/
+/ProducerConsumerProblem/dist/
