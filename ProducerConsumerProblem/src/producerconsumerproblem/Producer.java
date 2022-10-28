@@ -24,9 +24,13 @@ public class Producer implements Runnable{
     }
     @Override
     public void run(){
-        Random rd = new Random();
-        int random = rd.nextInt(100);
-        container.put(random);
+        int i = 0;
+        while(true){
+            container.put(i);
+            i++;
+        }
+        
+     
 //        try {
 //            t.sleep(2000);
 //        } catch (InterruptedException ex) {
